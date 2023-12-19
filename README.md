@@ -1,3 +1,29 @@
+<h1>
+    Minhas criações👩‍💻
+</h1>
+
+## Ferramentas🔧
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+## 🧘‍♂️Meditations APP🧘
+🟣Prótotipo navegável de um Applicativo de meditação.
+<html>
+<a href=https://www.figma.com/proto/eUXeYd0Q1NqD5w1Lg3zYwZ/Untitled?type=design&node-id=25-6&t=5KKsQpK9brC7E5i4-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=25%3A6"">Link para ver as interatividades do prótotipo</a>
+</html>
+
+![image](https://github.com/Rebecavitoria45/Design/assets/117654851/4ca4435a-eb78-4129-b8eb-50d072427b93)
+
+
+
+
+
+
+
+
+
+## Viu meu pet?🐶🐺
 🟣Protótipo de alta fidelidade para a página "viu meu pet?" que é um  achados e perdidos para pets🐶🐺
 <html>
 <a href="https://www.figma.com/file/zbOgcgLumqV4L3UPJH3iSj/Untitled?type=design&node-id=0%3A1&mode=design&t=lfgzPKysCoYnieUQ-1">Link para o Figma</a>
